@@ -1,0 +1,704 @@
+=== Vehicle Detection Log ===
+Run started: 2026-02-16 13:35:07
+Recording: detection_20260216_133507.mkv
+=====================================
+
+[0:00:00] [13:35:07] Recording started
+[0:00:57] [13:36:04] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:00:59] [13:36:07] EXITED: Van (HEAVY) - Right-to-Left
+[0:01:00] [13:36:07] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:01:00] [13:36:08] ENTERED: cars (LIGHT) - Left-to-Right - Confidence: 0.91
+[0:01:00] [13:36:08] ENTERED: cars (LIGHT) - Unknown - Confidence: 0.50
+[0:01:00] [13:36:08] EXITED: cars (LIGHT) - Left-to-Right
+[0:01:01] [13:36:08] EXITED: cars (LIGHT) - Unknown
+[0:01:01] [13:36:08] ENTERED: cars (LIGHT) - Unknown - Confidence: 0.76
+[0:01:01] [13:36:08] EXITED: cars (LIGHT) - Right-to-Left
+[0:01:03] [13:36:11] EXITED: cars (LIGHT) - Unknown
+[0:01:43] [13:36:50] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:01:43] [13:36:51] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[0:01:43] [13:36:51] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:01:43] [13:36:51] EXITED: Motorcycle (SMALL) - Unknown
+[0:02:29] [13:37:36] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.72
+[0:02:31] [13:37:38] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:02:45] [13:37:53] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.95
+[0:02:47] [13:37:55] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:04:00] [13:39:07] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.91
+[0:04:01] [13:39:09] EXITED: Van (HEAVY) - Right-to-Left
+[0:04:02] [13:39:09] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:04:04] [13:39:11] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.77
+[0:04:05] [13:39:12] EXITED: Motorcycle (SMALL) - Unknown
+[0:04:05] [13:39:12] EXITED: cars (LIGHT) - Right-to-Left
+[0:04:06] [13:39:14] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:04:06] [13:39:14] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:04:24] [13:39:32] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.58
+[0:04:24] [13:39:32] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[0:04:24] [13:39:32] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:04:26] [13:39:33] EXITED: Motorcycle (SMALL) - Unknown
+[0:06:38] [13:41:45] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.91
+[0:06:40] [13:41:47] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:06:40] [13:41:48] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:06:43] [13:41:50] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:07:28] [13:42:36] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:07:30] [13:42:38] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[0:07:31] [13:42:38] EXITED: Motorcycle (SMALL) - Unknown
+[0:07:31] [13:42:39] EXITED: Van (HEAVY) - Right-to-Left
+[0:07:32] [13:42:40] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:07:33] [13:42:40] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:07:40] [13:42:48] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.72
+[0:07:41] [13:42:48] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:09:43] [13:44:50] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:09:45] [13:44:52] EXITED: cars (LIGHT) - Right-to-Left
+[0:09:46] [13:44:54] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.76
+[0:09:48] [13:44:55] EXITED: Van (HEAVY) - Right-to-Left
+[0:09:50] [13:44:57] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:09:51] [13:44:59] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:09:53] [13:45:00] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:09:56] [13:45:04] EXITED: cars (LIGHT) - Right-to-Left
+[0:09:57] [13:45:05] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.91
+[0:10:00] [13:45:08] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:10:46] [13:45:54] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:10:47] [13:45:54] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:11:22] [13:46:29] ENTERED: truck (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:11:23] [13:46:31] EXITED: truck (HEAVY) - Right-to-Left
+[0:11:25] [13:46:32] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:11:26] [13:46:34] EXITED: Van (HEAVY) - Right-to-Left
+[0:11:44] [13:46:51] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:11:44] [13:46:52] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:11:52] [13:46:59] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:11:52] [13:47:00] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:11:56] [13:47:04] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:11:58] [13:47:06] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:11:59] [13:47:07] EXITED: cars (LIGHT) - Right-to-Left
+[0:12:01] [13:47:09] EXITED: cars (LIGHT) - Right-to-Left
+[0:12:35] [13:47:43] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:12:36] [13:47:43] ENTERED: cars (LIGHT) - Left-to-Right - Confidence: 0.91
+[0:12:36] [13:47:44] EXITED: cars (LIGHT) - Left-to-Right
+[0:12:38] [13:47:46] ENTERED: cars (LIGHT) - Unknown - Confidence: 0.91
+[0:12:39] [13:47:46] EXITED: cars (LIGHT) - Right-to-Left
+[0:12:39] [13:47:46] EXITED: cars (LIGHT) - Unknown
+[0:12:39] [13:47:47] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:12:42] [13:47:49] EXITED: cars (LIGHT) - Right-to-Left
+[0:13:32] [13:48:40] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[0:13:34] [13:48:42] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:15:36] [13:50:43] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.58
+[0:15:37] [13:50:44] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:16:03] [13:51:11] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:16:06] [13:51:14] EXITED: cars (LIGHT) - Right-to-Left
+[0:16:09] [13:51:16] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[0:16:09] [13:51:17] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.76
+[0:16:09] [13:51:17] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[0:16:09] [13:51:17] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:16:09] [13:51:17] EXITED: Motorcycle (SMALL) - Unknown
+[0:16:10] [13:51:17] EXITED: Motorcycle (SMALL) - Unknown
+[0:16:11] [13:51:18] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:16:11] [13:51:19] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:17:09] [13:52:16] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.50
+[0:17:12] [13:52:19] EXITED: cars (LIGHT) - Right-to-Left
+[0:17:15] [13:52:22] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.85
+[0:17:18] [13:52:26] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[0:17:18] [13:52:26] EXITED: cars (LIGHT) - Right-to-Left
+[0:17:20] [13:52:28] EXITED: Motorcycle (SMALL) - Unknown
+[0:17:22] [13:52:30] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:17:28] [13:52:36] EXITED: cars (LIGHT) - Right-to-Left
+[0:17:47] [13:52:55] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[0:17:48] [13:52:56] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[0:17:48] [13:52:56] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:17:49] [13:52:56] EXITED: Motorcycle (SMALL) - Unknown
+[0:17:49] [13:52:57] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.58
+[0:17:50] [13:52:58] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:18:40] [13:53:48] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.82
+[0:18:44] [13:53:51] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[0:18:44] [13:53:51] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:18:44] [13:53:52] EXITED: Motorcycle (SMALL) - Unknown
+[0:18:47] [13:53:55] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[0:18:48] [13:53:55] ENTERED: cars (LIGHT) - Left-to-Right - Confidence: 0.76
+[0:18:48] [13:53:56] ENTERED: cars (LIGHT) - Unknown - Confidence: 0.64
+[0:18:48] [13:53:56] EXITED: cars (LIGHT) - Left-to-Right
+[0:18:49] [13:53:56] EXITED: cars (LIGHT) - Unknown
+[0:18:51] [13:53:58] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:24:19] [13:59:26] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:24:23] [13:59:31] EXITED: Van (HEAVY) - Right-to-Left
+[0:24:32] [13:59:39] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.82
+[0:24:34] [13:59:41] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:24:39] [13:59:47] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:24:41] [13:59:48] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:24:42] [13:59:49] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.76
+[0:24:45] [13:59:53] EXITED: Van (HEAVY) - Right-to-Left
+[0:24:46] [13:59:54] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:24:49] [13:59:57] EXITED: Van (HEAVY) - Right-to-Left
+[0:26:20] [14:01:28] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:26:22] [14:01:29] EXITED: Van (HEAVY) - Right-to-Left
+[0:26:35] [14:01:43] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.50
+[0:26:36] [14:01:44] EXITED: cars (LIGHT) - Right-to-Left
+[0:27:06] [14:02:13] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[0:27:07] [14:02:15] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:27:12] [14:02:19] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:27:14] [14:02:22] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:27:15] [14:02:23] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.91
+[0:27:16] [14:02:24] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:27:21] [14:02:28] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:27:23] [14:02:30] EXITED: cars (LIGHT) - Right-to-Left
+[0:28:05] [14:03:13] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[0:28:06] [14:03:14] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:28:10] [14:03:17] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:28:12] [14:03:19] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[0:28:13] [14:03:20] EXITED: cars (LIGHT) - Right-to-Left
+[0:28:13] [14:03:20] EXITED: Motorcycle (SMALL) - Unknown
+[0:28:14] [14:03:21] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.85
+[0:28:19] [14:03:26] EXITED: cars (LIGHT) - Right-to-Left
+[0:28:19] [14:03:27] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:28:20] [14:03:28] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[0:28:20] [14:03:28] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:28:21] [14:03:28] EXITED: Motorcycle (SMALL) - Unknown
+[0:28:32] [14:03:39] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.91
+[0:28:32] [14:03:40] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:29:58] [14:05:06] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:29:59] [14:05:06] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.95
+[0:29:59] [14:05:07] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:29:59] [14:05:07] EXITED: Motorcycle (SMALL) - Unknown
+[0:30:00] [14:05:07] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.58
+[0:30:02] [14:05:09] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:30:04] [14:05:11] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:30:04] [14:05:12] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:31:07] [14:06:15] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.91
+[0:31:09] [14:06:17] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:31:32] [14:06:39] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:31:34] [14:06:41] EXITED: cars (LIGHT) - Right-to-Left
+[0:32:21] [14:07:29] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:32:21] [14:07:29] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[0:32:21] [14:07:29] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:32:22] [14:07:29] EXITED: Motorcycle (SMALL) - Unknown
+[0:33:08] [14:08:16] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[0:33:10] [14:08:18] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:34:03] [14:09:11] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.85
+[0:34:06] [14:09:14] EXITED: cars (LIGHT) - Right-to-Left
+[0:34:07] [14:09:14] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:34:09] [14:09:17] EXITED: Van (HEAVY) - Right-to-Left
+[0:34:47] [14:09:55] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:34:48] [14:09:56] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:36:09] [14:11:16] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[0:36:09] [14:11:17] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:36:12] [14:11:20] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:36:14] [14:11:22] EXITED: cars (LIGHT) - Right-to-Left
+[0:37:05] [14:12:13] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:37:06] [14:12:13] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:37:08] [14:12:16] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:37:11] [14:12:18] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[0:37:11] [14:12:19] EXITED: Motorcycle (SMALL) - Unknown
+[0:37:11] [14:12:19] EXITED: cars (LIGHT) - Right-to-Left
+[0:37:12] [14:12:20] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:37:13] [14:12:20] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:37:14] [14:12:21] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:37:14] [14:12:22] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:37:44] [14:12:52] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.91
+[0:37:46] [14:12:54] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:38:40] [14:13:48] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:38:42] [14:13:49] EXITED: cars (LIGHT) - Right-to-Left
+[0:38:56] [14:14:04] ENTERED: truck (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:38:58] [14:14:06] EXITED: truck (HEAVY) - Right-to-Left
+[0:39:00] [14:14:07] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.76
+[0:39:02] [14:14:10] EXITED: cars (LIGHT) - Right-to-Left
+[0:39:03] [14:14:11] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:39:05] [14:14:13] EXITED: cars (LIGHT) - Right-to-Left
+[0:39:08] [14:14:16] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[0:39:11] [14:14:18] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:39:12] [14:14:19] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[0:39:14] [14:14:22] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:39:15] [14:14:22] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.82
+[0:39:17] [14:14:25] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:39:19] [14:14:27] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[0:39:19] [14:14:27] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:39:20] [14:14:28] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:39:24] [14:14:31] EXITED: cars (LIGHT) - Right-to-Left
+[0:39:24] [14:14:32] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:39:27] [14:14:35] ENTERED: Tricycle (SMALL) - Unknown - Confidence: 0.50
+[0:39:27] [14:14:35] EXITED: Van (HEAVY) - Right-to-Left
+[0:39:29] [14:14:36] EXITED: Tricycle (SMALL) - Unknown
+[0:39:30] [14:14:38] ENTERED: Motorcycle (SMALL) - Left-to-Right - Confidence: 0.85
+[0:39:30] [14:14:38] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.76
+[0:39:31] [14:14:38] EXITED: cars (LIGHT) - Right-to-Left
+[0:39:31] [14:14:39] EXITED: Motorcycle (SMALL) - Left-to-Right
+[0:39:31] [14:14:39] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:39:33] [14:14:40] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.76
+[0:39:33] [14:14:41] EXITED: cars (LIGHT) - Right-to-Left
+[0:39:34] [14:14:42] EXITED: Motorcycle (SMALL) - Unknown
+[0:40:16] [14:15:24] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:40:16] [14:15:24] ENTERED: Motorcycle (SMALL) - Left-to-Right - Confidence: 0.95
+[0:40:17] [14:15:24] EXITED: cars (LIGHT) - Right-to-Left
+[0:40:17] [14:15:25] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:40:17] [14:15:25] EXITED: Motorcycle (SMALL) - Left-to-Right
+[0:40:18] [14:15:26] EXITED: cars (LIGHT) - Right-to-Left
+[0:40:33] [14:15:41] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:40:35] [14:15:43] EXITED: cars (LIGHT) - Right-to-Left
+[0:40:40] [14:15:47] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:40:40] [14:15:48] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[0:40:40] [14:15:48] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:40:41] [14:15:48] EXITED: Motorcycle (SMALL) - Unknown
+[0:40:47] [14:15:55] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:40:48] [14:15:55] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:41:11] [14:16:19] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:41:12] [14:16:20] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:41:14] [14:16:21] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.72
+[0:41:15] [14:16:22] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[0:41:15] [14:16:22] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:41:15] [14:16:22] EXITED: Motorcycle (SMALL) - Unknown
+[0:41:18] [14:16:25] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:41:18] [14:16:25] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:42:06] [14:17:13] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.95
+[0:42:08] [14:17:16] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:42:35] [14:17:43] ENTERED: cars (LIGHT) - Left-to-Right - Confidence: 0.91
+[0:42:36] [14:17:44] EXITED: cars (LIGHT) - Left-to-Right
+[0:42:36] [14:17:44] ENTERED: truck (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:42:39] [14:17:47] EXITED: truck (HEAVY) - Right-to-Left
+[0:43:44] [14:18:52] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[0:43:47] [14:18:54] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:44:04] [14:19:11] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.76
+[0:44:06] [14:19:13] EXITED: Van (HEAVY) - Right-to-Left
+[0:44:09] [14:19:17] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:44:12] [14:19:19] EXITED: cars (LIGHT) - Right-to-Left
+[0:45:25] [14:20:32] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.64
+[0:45:27] [14:20:35] EXITED: Van (HEAVY) - Right-to-Left
+[0:45:30] [14:20:38] ENTERED: truck (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:45:32] [14:20:39] EXITED: truck (HEAVY) - Right-to-Left
+[0:46:09] [14:21:17] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[0:46:10] [14:21:18] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:46:37] [14:21:45] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:46:38] [14:21:45] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:46:58] [14:22:05] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.91
+[0:46:59] [14:22:07] ENTERED: Tricycle (SMALL) - Unknown - Confidence: 0.50
+[0:46:59] [14:22:07] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:47:02] [14:22:09] EXITED: Tricycle (SMALL) - Unknown
+[0:47:09] [14:22:17] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[0:47:11] [14:22:19] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:48:35] [14:23:42] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.77
+[0:48:37] [14:23:45] EXITED: Van (HEAVY) - Right-to-Left
+[0:48:43] [14:23:51] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[0:48:46] [14:23:53] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:48:53] [14:24:01] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.77
+[0:48:55] [14:24:02] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:48:57] [14:24:05] ENTERED: Van (HEAVY) - Left-to-Right - Confidence: 0.85
+[0:49:00] [14:24:07] EXITED: Van (HEAVY) - Left-to-Right
+[0:49:53] [14:25:01] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.82
+[0:49:55] [14:25:03] ENTERED: Tricycle (SMALL) - Unknown - Confidence: 0.65
+[0:49:56] [14:25:03] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:49:57] [14:25:05] EXITED: Tricycle (SMALL) - Unknown
+[0:50:12] [14:25:20] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:50:12] [14:25:20] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:50:28] [14:25:36] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:50:30] [14:25:38] EXITED: Van (HEAVY) - Right-to-Left
+[0:50:33] [14:25:40] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[0:50:33] [14:25:41] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:51:00] [14:26:07] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.77
+[0:51:02] [14:26:10] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:51:05] [14:26:12] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:51:05] [14:26:13] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:51:14] [14:26:21] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[0:51:14] [14:26:22] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:51:43] [14:26:50] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.85
+[0:51:45] [14:26:52] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[0:51:46] [14:26:53] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:51:46] [14:26:54] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[0:51:46] [14:26:54] EXITED: Motorcycle (SMALL) - Unknown
+[0:51:47] [14:26:54] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[0:51:47] [14:26:55] EXITED: Motorcycle (SMALL) - Unknown
+[0:51:48] [14:26:56] EXITED: Motorcycle (SMALL) - Unknown
+[0:53:12] [14:28:19] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[0:53:12] [14:28:20] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:53:27] [14:28:34] ENTERED: Jeepney (HEAVY) - Right-to-Left - Confidence: 0.85
+[0:53:28] [14:28:35] EXITED: Jeepney (HEAVY) - Right-to-Left
+[0:53:29] [14:28:36] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:53:32] [14:28:39] EXITED: cars (LIGHT) - Right-to-Left
+[0:53:33] [14:28:40] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[0:53:37] [14:28:45] EXITED: Van (HEAVY) - Right-to-Left
+[0:53:42] [14:28:50] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:53:43] [14:28:51] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:53:45] [14:28:52] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.50
+[0:53:46] [14:28:53] EXITED: cars (LIGHT) - Right-to-Left
+[0:53:54] [14:29:01] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.91
+[0:53:56] [14:29:03] EXITED: cars (LIGHT) - Right-to-Left
+[0:54:15] [14:29:23] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.72
+[0:54:18] [14:29:25] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:54:22] [14:29:30] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.77
+[0:54:23] [14:29:31] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:54:31] [14:29:39] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:54:32] [14:29:39] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:54:46] [14:29:54] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.58
+[0:54:48] [14:29:55] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:55:53] [14:31:01] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:55:55] [14:31:02] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:56:32] [14:31:39] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[0:56:35] [14:31:42] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:56:59] [14:32:07] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[0:57:02] [14:32:10] EXITED: cars (LIGHT) - Right-to-Left
+[0:57:40] [14:32:48] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.82
+[0:57:42] [14:32:50] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:58:12] [14:33:19] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.77
+[0:58:14] [14:33:22] EXITED: Tricycle (SMALL) - Right-to-Left
+[0:58:15] [14:33:22] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.91
+[0:58:15] [14:33:23] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:58:37] [14:33:45] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[0:58:38] [14:33:45] EXITED: Motorcycle (SMALL) - Right-to-Left
+[0:58:59] [14:34:07] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[0:59:00] [14:34:07] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:00:07] [14:35:15] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.58
+[1:00:09] [14:35:17] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:00:39] [14:35:47] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:00:40] [14:35:47] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:00:46] [14:35:53] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.65
+[1:00:47] [14:35:54] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:00:47] [14:35:55] EXITED: Motorcycle (SMALL) - Unknown
+[1:00:48] [14:35:56] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:00:49] [14:35:56] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:00:49] [14:35:56] EXITED: Motorcycle (SMALL) - Unknown
+[1:00:51] [14:35:58] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:00:51] [14:35:59] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:00:51] [14:35:59] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:00:52] [14:36:00] EXITED: Motorcycle (SMALL) - Unknown
+[1:00:55] [14:36:03] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[1:00:56] [14:36:04] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:01:01] [14:36:09] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:01:04] [14:36:11] EXITED: Van (HEAVY) - Right-to-Left
+[1:01:05] [14:36:13] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[1:01:06] [14:36:13] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:01:33] [14:36:40] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:01:35] [14:36:43] EXITED: cars (LIGHT) - Right-to-Left
+[1:02:50] [14:37:58] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:02:52] [14:38:00] EXITED: cars (LIGHT) - Right-to-Left
+[1:03:00] [14:38:08] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.65
+[1:03:01] [14:38:09] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:03:05] [14:38:13] ENTERED: truck (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:03:08] [14:38:15] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[1:03:08] [14:38:15] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:03:08] [14:38:16] EXITED: Motorcycle (SMALL) - Unknown
+[1:03:08] [14:38:16] EXITED: Motorcycle (SMALL) - Unknown
+[1:03:08] [14:38:16] EXITED: truck (HEAVY) - Right-to-Left
+[1:03:12] [14:38:19] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[1:03:13] [14:38:20] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:05:23] [14:40:30] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.65
+[1:05:25] [14:40:33] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:05:26] [14:40:33] EXITED: Motorcycle (SMALL) - Unknown
+[1:05:26] [14:40:34] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:05:36] [14:40:43] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.65
+[1:05:36] [14:40:44] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:05:36] [14:40:44] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:05:36] [14:40:44] EXITED: Motorcycle (SMALL) - Unknown
+[1:06:06] [14:41:14] ENTERED: Jeepney (HEAVY) - Right-to-Left - Confidence: 0.91
+[1:06:08] [14:41:15] ENTERED: Tricycle (SMALL) - Unknown - Confidence: 0.42
+[1:06:08] [14:41:16] EXITED: Jeepney (HEAVY) - Right-to-Left
+[1:06:11] [14:41:18] ENTERED: cars (LIGHT) - Unknown - Confidence: 0.85
+[1:06:12] [14:41:19] EXITED: Tricycle (SMALL) - Unknown
+[1:06:15] [14:41:22] EXITED: cars (LIGHT) - Unknown
+[1:06:15] [14:41:23] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[1:06:15] [14:41:23] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[1:06:16] [14:41:23] EXITED: Motorcycle (SMALL) - Unknown
+[1:06:16] [14:41:23] EXITED: Motorcycle (SMALL) - Unknown
+[1:06:17] [14:41:24] ENTERED: truck (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:06:20] [14:41:27] EXITED: truck (HEAVY) - Right-to-Left
+[1:06:52] [14:42:00] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:06:53] [14:42:00] ENTERED: cars (LIGHT) - Left-to-Right - Confidence: 0.76
+[1:06:53] [14:42:01] EXITED: cars (LIGHT) - Left-to-Right
+[1:06:53] [14:42:01] EXITED: Van (HEAVY) - Right-to-Left
+[1:06:53] [14:42:01] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:06:56] [14:42:04] EXITED: Van (HEAVY) - Right-to-Left
+[1:07:02] [14:42:09] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:07:02] [14:42:09] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:07:09] [14:42:16] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.77
+[1:07:10] [14:42:18] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:07:10] [14:42:18] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:07:11] [14:42:18] EXITED: Motorcycle (SMALL) - Unknown
+[1:07:11] [14:42:18] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:07:11] [14:42:19] EXITED: Motorcycle (SMALL) - Unknown
+[1:07:15] [14:42:23] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:07:17] [14:42:25] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.58
+[1:07:18] [14:42:25] EXITED: Motorcycle (SMALL) - Unknown
+[1:07:18] [14:42:25] EXITED: cars (LIGHT) - Right-to-Left
+[1:07:20] [14:42:28] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:07:21] [14:42:28] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[1:07:21] [14:42:28] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:07:21] [14:42:28] EXITED: Motorcycle (SMALL) - Unknown
+[1:08:35] [14:43:43] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:08:35] [14:43:43] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:09:04] [14:44:11] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.76
+[1:09:06] [14:44:14] EXITED: cars (LIGHT) - Right-to-Left
+[1:09:08] [14:44:16] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:09:10] [14:44:18] EXITED: cars (LIGHT) - Right-to-Left
+[1:09:11] [14:44:18] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[1:09:11] [14:44:18] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.58
+[1:09:11] [14:44:19] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:09:12] [14:44:20] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:09:13] [14:44:20] EXITED: Motorcycle (SMALL) - Unknown
+[1:09:13] [14:44:20] EXITED: Motorcycle (SMALL) - Unknown
+[1:09:14] [14:44:22] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:09:15] [14:44:23] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:09:20] [14:44:28] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.65
+[1:09:20] [14:44:28] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:09:20] [14:44:28] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:09:21] [14:44:28] EXITED: Motorcycle (SMALL) - Unknown
+[1:09:21] [14:44:28] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[1:09:21] [14:44:29] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:09:21] [14:44:29] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:09:24] [14:44:32] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:09:24] [14:44:32] EXITED: cars (LIGHT) - Right-to-Left
+[1:09:24] [14:44:32] EXITED: Motorcycle (SMALL) - Unknown
+[1:09:31] [14:44:39] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[1:09:32] [14:44:39] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:09:32] [14:44:40] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:09:32] [14:44:40] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:09:32] [14:44:40] EXITED: Motorcycle (SMALL) - Unknown
+[1:09:32] [14:44:40] EXITED: Motorcycle (SMALL) - Unknown
+[1:09:36] [14:44:44] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[1:09:36] [14:44:44] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:10:06] [14:45:14] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.95
+[1:10:07] [14:45:15] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:10:08] [14:45:15] EXITED: Motorcycle (SMALL) - Unknown
+[1:10:08] [14:45:16] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:10:13] [14:45:21] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:10:13] [14:45:21] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:10:14] [14:45:22] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:10:17] [14:45:24] EXITED: cars (LIGHT) - Right-to-Left
+[1:10:52] [14:46:00] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:10:54] [14:46:01] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.91
+[1:10:54] [14:46:02] EXITED: cars (LIGHT) - Right-to-Left
+[1:10:56] [14:46:04] EXITED: cars (LIGHT) - Right-to-Left
+[1:11:31] [14:46:39] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[1:11:32] [14:46:39] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.58
+[1:11:32] [14:46:39] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:11:32] [14:46:40] EXITED: Motorcycle (SMALL) - Unknown
+[1:11:32] [14:46:40] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:11:33] [14:46:41] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:12:07] [14:47:15] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.91
+[1:12:10] [14:47:18] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:12:30] [14:47:38] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:12:31] [14:47:39] EXITED: Van (HEAVY) - Right-to-Left
+[1:12:34] [14:47:42] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:12:36] [14:47:44] EXITED: cars (LIGHT) - Right-to-Left
+[1:14:45] [14:49:53] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.91
+[1:14:46] [14:49:54] EXITED: cars (LIGHT) - Right-to-Left
+[1:14:51] [14:49:58] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:14:54] [14:50:01] EXITED: Van (HEAVY) - Right-to-Left
+[1:15:08] [14:50:16] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.77
+[1:15:10] [14:50:18] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:15:24] [14:50:32] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:15:25] [14:50:33] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:15:27] [14:50:35] EXITED: cars (LIGHT) - Right-to-Left
+[1:15:31] [14:50:39] EXITED: cars (LIGHT) - Right-to-Left
+[1:15:48] [14:50:55] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[1:15:49] [14:50:57] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[1:15:49] [14:50:57] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:15:50] [14:50:57] EXITED: Motorcycle (SMALL) - Unknown
+[1:16:22] [14:51:30] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:16:23] [14:51:31] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.77
+[1:16:23] [14:51:31] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:16:24] [14:51:32] EXITED: Motorcycle (SMALL) - Unknown
+[1:16:37] [14:51:45] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[1:16:37] [14:51:45] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:16:38] [14:51:45] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:16:38] [14:51:46] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:16:38] [14:51:46] EXITED: Motorcycle (SMALL) - Unknown
+[1:16:38] [14:51:46] EXITED: Motorcycle (SMALL) - Unknown
+[1:17:36] [14:52:43] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:17:39] [14:52:46] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:17:39] [14:52:47] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:17:42] [14:52:49] ENTERED: Tricycle (SMALL) - Unknown - Confidence: 0.64
+[1:17:42] [14:52:49] EXITED: Van (HEAVY) - Right-to-Left
+[1:17:43] [14:52:51] EXITED: Tricycle (SMALL) - Unknown
+[1:17:45] [14:52:52] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:17:46] [14:52:53] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:17:46] [14:52:54] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:17:47] [14:52:54] EXITED: Motorcycle (SMALL) - Unknown
+[1:17:47] [14:52:54] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:17:47] [14:52:55] EXITED: Motorcycle (SMALL) - Unknown
+[1:17:47] [14:52:55] EXITED: Motorcycle (SMALL) - Unknown
+[1:17:47] [14:52:55] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:17:47] [14:52:55] EXITED: Motorcycle (SMALL) - Unknown
+[1:17:48] [14:52:56] EXITED: Motorcycle (SMALL) - Unknown
+[1:17:49] [14:52:57] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[1:17:50] [14:52:58] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:20:33] [14:55:40] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:20:35] [14:55:43] ENTERED: Tricycle (SMALL) - Unknown - Confidence: 0.82
+[1:20:37] [14:55:44] EXITED: Van (HEAVY) - Right-to-Left
+[1:20:39] [14:55:47] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:20:41] [14:55:48] EXITED: Tricycle (SMALL) - Unknown
+[1:20:42] [14:55:49] EXITED: Motorcycle (SMALL) - Unknown
+[1:20:57] [14:56:05] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.58
+[1:20:58] [14:56:05] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:20:58] [14:56:06] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:20:58] [14:56:06] EXITED: Motorcycle (SMALL) - Unknown
+[1:21:45] [14:56:53] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:21:49] [14:56:56] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:22:01] [14:57:08] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:22:04] [14:57:12] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:22:05] [14:57:12] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:22:05] [14:57:13] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:22:06] [14:57:13] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:22:06] [14:57:14] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:22:11] [14:57:19] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:22:11] [14:57:19] EXITED: Motorcycle (SMALL) - Unknown
+[1:22:12] [14:57:19] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:22:16] [14:57:24] EXITED: cars (LIGHT) - Right-to-Left
+[1:22:21] [14:57:29] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.91
+[1:22:25] [14:57:32] EXITED: cars (LIGHT) - Right-to-Left
+[1:22:49] [14:57:57] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:22:52] [14:57:59] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:24:36] [14:59:43] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[1:24:36] [14:59:44] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:24:37] [14:59:44] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:24:37] [14:59:44] EXITED: Motorcycle (SMALL) - Unknown
+[1:24:39] [14:59:47] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:24:42] [14:59:50] ENTERED: Motorcycle (SMALL) - Left-to-Right - Confidence: 0.50
+[1:24:42] [14:59:50] EXITED: cars (LIGHT) - Right-to-Left
+[1:24:43] [14:59:50] EXITED: Motorcycle (SMALL) - Left-to-Right
+[1:24:44] [14:59:51] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:24:47] [14:59:55] EXITED: cars (LIGHT) - Right-to-Left
+[1:25:25] [15:00:33] ENTERED: Motorcycle (SMALL) - Left-to-Right - Confidence: 0.91
+[1:25:25] [15:00:33] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.65
+[1:25:26] [15:00:33] EXITED: Motorcycle (SMALL) - Left-to-Right
+[1:25:28] [15:00:36] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:26:20] [15:01:28] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:26:23] [15:01:31] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:26:24] [15:01:31] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[1:26:24] [15:01:32] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:26:24] [15:01:32] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:26:25] [15:01:32] EXITED: Motorcycle (SMALL) - Unknown
+[1:26:53] [15:02:01] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.82
+[1:26:55] [15:02:02] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:26:55] [15:02:03] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.50
+[1:26:57] [15:02:05] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.58
+[1:26:58] [15:02:06] EXITED: cars (LIGHT) - Right-to-Left
+[1:26:58] [15:02:06] EXITED: Motorcycle (SMALL) - Unknown
+[1:27:06] [15:02:13] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:27:08] [15:02:16] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:27:08] [15:02:16] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:27:09] [15:02:16] EXITED: Motorcycle (SMALL) - Unknown
+[1:27:09] [15:02:16] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[1:27:10] [15:02:17] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:27:21] [15:02:28] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.77
+[1:27:21] [15:02:29] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:27:45] [15:02:53] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:27:46] [15:02:53] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:27:46] [15:02:53] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:27:46] [15:02:53] EXITED: Motorcycle (SMALL) - Unknown
+[1:27:49] [15:02:57] ENTERED: Jeepney (HEAVY) - Right-to-Left - Confidence: 0.64
+[1:27:51] [15:02:59] EXITED: Jeepney (HEAVY) - Right-to-Left
+[1:28:01] [15:03:08] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:28:04] [15:03:11] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:28:16] [15:03:24] ENTERED: truck (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:28:21] [15:03:28] EXITED: truck (HEAVY) - Right-to-Left
+[1:28:29] [15:03:37] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.76
+[1:28:30] [15:03:37] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:28:30] [15:03:37] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:28:30] [15:03:38] EXITED: Motorcycle (SMALL) - Unknown
+[1:28:54] [15:04:01] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:28:57] [15:04:04] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:29:52] [15:05:00] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.95
+[1:29:55] [15:05:02] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:30:36] [15:05:44] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[1:30:37] [15:05:44] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:30:37] [15:05:45] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:30:37] [15:05:45] EXITED: Motorcycle (SMALL) - Unknown
+[1:31:14] [15:06:22] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:31:15] [15:06:23] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:31:16] [15:06:24] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.58
+[1:31:17] [15:06:24] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:31:18] [15:06:26] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[1:31:19] [15:06:27] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:31:19] [15:06:27] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:31:20] [15:06:27] EXITED: Motorcycle (SMALL) - Unknown
+[1:32:27] [15:07:35] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:32:28] [15:07:36] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.76
+[1:32:28] [15:07:36] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:32:29] [15:07:37] EXITED: Motorcycle (SMALL) - Unknown
+[1:32:36] [15:07:44] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.58
+[1:32:37] [15:07:44] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:32:37] [15:07:44] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:32:37] [15:07:44] EXITED: Motorcycle (SMALL) - Unknown
+[1:33:31] [15:08:38] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.58
+[1:33:31] [15:08:38] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:33:31] [15:08:39] EXITED: Motorcycle (SMALL) - Unknown
+[1:33:32] [15:08:40] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:33:37] [15:08:45] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:33:41] [15:08:48] EXITED: Van (HEAVY) - Right-to-Left
+[1:34:06] [15:09:14] ENTERED: Jeepney (HEAVY) - Right-to-Left - Confidence: 0.91
+[1:34:08] [15:09:15] EXITED: Jeepney (HEAVY) - Right-to-Left
+[1:34:12] [15:09:20] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.64
+[1:34:13] [15:09:20] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:34:13] [15:09:21] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[1:34:14] [15:09:22] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:34:34] [15:09:42] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:34:37] [15:09:45] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:34:38] [15:09:46] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[1:34:40] [15:09:47] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:35:26] [15:10:33] ENTERED: truck (HEAVY) - Left-to-Right - Confidence: 0.76
+[1:35:30] [15:10:37] EXITED: truck (HEAVY) - Left-to-Right
+[1:36:37] [15:11:45] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:36:40] [15:11:48] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:36:45] [15:11:52] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.77
+[1:36:46] [15:11:54] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:36:47] [15:11:54] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.82
+[1:36:50] [15:11:57] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:37:19] [15:12:26] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.82
+[1:37:22] [15:12:30] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:37:23] [15:12:31] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:37:24] [15:12:32] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:37:29] [15:12:36] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.72
+[1:37:31] [15:12:39] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:37:36] [15:12:44] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:37:39] [15:12:47] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:37:42] [15:12:50] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:37:46] [15:12:53] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:37:46] [15:12:54] EXITED: cars (LIGHT) - Right-to-Left
+[1:37:46] [15:12:54] EXITED: Motorcycle (SMALL) - Unknown
+[1:37:49] [15:12:57] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:37:50] [15:12:57] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.58
+[1:37:50] [15:12:57] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:37:50] [15:12:58] EXITED: Motorcycle (SMALL) - Unknown
+[1:38:34] [15:13:42] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.91
+[1:38:36] [15:13:44] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.65
+[1:38:36] [15:13:44] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.64
+[1:38:36] [15:13:44] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:38:37] [15:13:44] EXITED: Motorcycle (SMALL) - Unknown
+[1:38:37] [15:13:45] EXITED: Motorcycle (SMALL) - Unknown
+[1:38:38] [15:13:45] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.85
+[1:38:40] [15:13:48] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:38:50] [15:13:57] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.42
+[1:38:51] [15:13:58] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:39:05] [15:14:13] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.72
+[1:39:06] [15:14:14] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:40:02] [15:15:09] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.64
+[1:40:04] [15:15:12] EXITED: Van (HEAVY) - Right-to-Left
+[1:40:35] [15:15:42] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.72
+[1:40:35] [15:15:43] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:40:36] [15:15:43] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:40:36] [15:15:43] EXITED: Motorcycle (SMALL) - Unknown
+[1:40:59] [15:16:06] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:41:02] [15:16:09] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:41:45] [15:16:53] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:41:45] [15:16:53] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:42:07] [15:17:15] ENTERED: Van (HEAVY) - Right-to-Left - Confidence: 0.95
+[1:42:09] [15:17:16] EXITED: Van (HEAVY) - Right-to-Left
+[1:42:10] [15:17:18] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:42:12] [15:17:20] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.95
+[1:42:13] [15:17:20] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:42:15] [15:17:22] ENTERED: cars (LIGHT) - Right-to-Left - Confidence: 0.50
+[1:42:15] [15:17:23] EXITED: cars (LIGHT) - Right-to-Left
+[1:42:16] [15:17:24] ENTERED: Jeepney (HEAVY) - Unknown - Confidence: 0.50
+[1:42:17] [15:17:24] EXITED: cars (LIGHT) - Right-to-Left
+[1:42:17] [15:17:25] EXITED: Jeepney (HEAVY) - Unknown
+[1:42:18] [15:17:26] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.50
+[1:42:19] [15:17:26] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:42:21] [15:17:28] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:42:21] [15:17:29] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:42:22] [15:17:29] EXITED: Motorcycle (SMALL) - Unknown
+[1:42:25] [15:17:32] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:42:26] [15:17:34] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.82
+[1:42:27] [15:17:35] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:42:27] [15:17:35] ENTERED: Tricycle (SMALL) - Right-to-Left - Confidence: 0.76
+[1:42:28] [15:17:36] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:42:28] [15:17:36] EXITED: Tricycle (SMALL) - Right-to-Left
+[1:42:29] [15:17:36] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.50
+[1:42:29] [15:17:36] EXITED: Motorcycle (SMALL) - Unknown
+[1:42:30] [15:17:37] EXITED: Motorcycle (SMALL) - Unknown
+[1:42:40] [15:17:47] ENTERED: Motorcycle (SMALL) - Right-to-Left - Confidence: 0.86
+[1:42:40] [15:17:48] ENTERED: Motorcycle (SMALL) - Unknown - Confidence: 0.42
+[1:42:40] [15:17:48] EXITED: Motorcycle (SMALL) - Right-to-Left
+[1:42:41] [15:17:49] EXITED: Motorcycle (SMALL) - Unknown
